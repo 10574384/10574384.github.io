@@ -2,6 +2,7 @@
         color: #0076bb;
 }
 
+nav ul {padding: 0;}
 nav ul li {
 
     float: left;
@@ -16,7 +17,7 @@ nav ul li a {
 }
 
 main h1 {
-    
+
     clear: both;
 }
 
