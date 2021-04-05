@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama id="node1" apprev="18007" appversion="6.1.10">
+  <input levelbias="0.400" leveltilesize="510" width="1350" overlap="1" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1350" levelbiashidpi="1.000">
+    <level predecode="0" width="1350" preload="0" height="1350"/>
+    <level predecode="0" width="675" preload="0" height="675"/>
+    <level predecode="1" width="337" preload="1" height="337"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view pannorth="0" fovmode="0">
+    <start projection="4" fov="70" pan="0" tilt="0"/>
+    <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+    <min fovpixel="2" pan="0" tilt="-90"/>
+    <max fov="120" fovfisheye="360" pan="360" fovstereographic="270" scaletofit="1" tilt="90"/>
+  </view>
+  <userdata comment="" source="" copyright="" title="" author="" latitude="" customnodeid="" nodeid="node1" description="" tags="mike_updated" longitude="" datetime="4/1/21 6:46 AM" heading="0" info=""/>
+  <hotspots wordwrap="1" width="180" height="20">
+    <label textalpha="1" wordwrap="1" background="1" bordercolor="0x000000" textcolor="0x000000" borderradius="1" enabled="1" backgroundalpha="1" width="180" backgroundcolor="0xffffff" border="1" height="20" borderalpha="1"/>
+    <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+  </hotspots>
+  <media/>
+  <transition blendtime="1" softedge="0" zoomafteroutfov="20" enabled="1" zoomafterinfov="90" zoomoutpause="1" type="crossdissolve" zoomin="0" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomfov="20"/>
+  <autorotate speed="0.100" delay="5.00" noderandom="1" nodefilter="" useanimation="0" startloaded="0" enabled="1" returntohorizon="0.000" nodedelay="0.00"/>
+  <flyintransition speed="1.00" enabled="1"/>
+  <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+  <control rubberband="0" lockedwheel="0" contextfullscreen="1" contextprojections="0" speedwheel="1" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedkeyboard="0" simulatemass="1" lockedkeyboardzoom="0"/>
+</panorama>
