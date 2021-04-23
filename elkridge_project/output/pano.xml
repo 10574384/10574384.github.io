@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama apprev="18043" appversion="6.1.11" id="node1">
+  <input levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="2217" overlap="1" height="2217" levelbias="0.400" levelingpitch="0" levelingroll="0">
+    <level preload="0" width="2217" height="2217" predecode="0"/>
+    <level preload="0" width="1108" height="1108" predecode="0"/>
+    <level preload="0" width="554" height="554" predecode="0"/>
+    <level preload="1" width="277" height="277" predecode="1"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view fovmode="0" pannorth="40.1151">
+    <start pan="0" fov="70" tilt="0" projection="4"/>
+    <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+    <min pan="0" fovpixel="2" tilt="-90"/>
+    <max pan="360" fovstereographic="270" fov="120" scaletofit="1" tilt="90" fovfisheye="360"/>
+  </view>
+  <userdata datetime="" comment="" longitude="-111.68681571" heading="40.1151" info="" nodeid="node1" description="" latitude="40.02328000" author="" customnodeid="" source="" copyright="" tags="elkridge_project" title=""/>
+  <hotspots width="180" wordwrap="1" height="20">
+    <label border="1" borderradius="1" width="180" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" enabled="1" height="20" textcolor="0x000000" backgroundalpha="1" background="1" textalpha="1" bordercolor="0x000000"/>
+    <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+    <hotspot pan="-3.04" url="images/erm_verdict.png" description="" skinid="ht_image" tilt="-37.39" id="Point01" title="Disc Choice" target=""/>
+  </hotspots>
+  <media/>
+  <transition zoomafteroutfov="20" type="crossdissolve" zoomfov="20" zoomafterinfov="90" zoomout="0" enabled="1" blendtime="1" zoomin="0" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomoutpause="1"/>
+  <autorotate useanimation="0" returntohorizon="0.000" delay="5.00" startloaded="0" speed="0.100" nodefilter="" nodedelay="0.00" enabled="1" noderandom="1"/>
+  <flyintransition speed="1.00" enabled="1"/>
+  <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+  <control simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" contextfullscreen="1" dblclickfullscreen="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" contextprojections="0" invertcontrol="1" sensitivity="8" rubberband="0"/>
+</panorama>
